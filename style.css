@@ -1,5 +1,9 @@
+html {
+	font-family: 'Geist', sans-serif !important;
+}
+
 body {
-	background: #f9f9f9;
+	background: #f8f8f8;
 }
 
 .navbar1_component {
