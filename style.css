@@ -17,3 +17,8 @@ body {
 .background-color-tan {
 	background-color: transparent;
 }
+
+.span-yellow,
+.background-color-yellow {
+	background-color: #d6e6c7;
+}
